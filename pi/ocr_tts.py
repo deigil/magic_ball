@@ -8,6 +8,8 @@ import datetime
 import time
 from PIL import Image
 
+local_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
 def supabase_initialization():
     url = "https://mqalxvluagdxoihxjlsm.supabase.co"
     key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1xYWx4dmx1YWdkeG9paHhqbHNtIiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTgzNDgzNDIsImV4cCI6MjAxMzkyNDM0Mn0.t3cNfV9Has7pvCZTw7ObN91IRjOaxVWcoUnFXiJZAL4"
