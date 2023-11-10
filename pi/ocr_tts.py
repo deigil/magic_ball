@@ -67,8 +67,8 @@ def ocr_tts():
     engine.say(text)
     engine.runAndWait()
     # Call the supabase_initilization() method and get the variables
-    supabase, session_token, user_id = supabase_initialization()
-    insert_word(supabase, session_token, text, user_id)
+    supabase, user_id = supabase_initialization()
+    insert_word(supabase, text, user_id)
 
 # Call the function
 ocr_tts()
