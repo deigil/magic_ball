@@ -1,7 +1,7 @@
 from picamera2 import Picamera2, Preview
+import cv2
 import pytesseract
 import pyttsx3
-import cv2
 import time
 import os
 from supabase import create_client, Client
