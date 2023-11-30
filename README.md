@@ -1,6 +1,6 @@
 # Smart Reader for Raspberry Pi
 
-![Smart Reader Logo](https://imgur.com/p7tqfsj) <!-- Add a logo or image representing your project, replace "link-to-logo.png" with the actual file path or URL -->
+![Smart Reader Logo](https://i.imgur.com/p7tqfsj.png) <!-- Add a logo or image representing your project, replace "link-to-logo.png" with the actual file path or URL -->
 
 Welcome to Smart Reader, a Raspberry Pi project designed to enhance learning and reading experiences for kids. This project utilizes a camera to capture images, converts the text in the image to speech, and outputs the result to both the console and speakers.
 
