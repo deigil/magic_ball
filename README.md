@@ -1,4 +1,4 @@
-# Smart Reader for Raspberry Pi
+# Magic Ball for Raspberry Pi
 
 ![Smart Reader Logo](https://i.imgur.com/p7tqfsj.png) <!-- Add a logo or image representing your project, replace "link-to-logo.png" with the actual file path or URL -->
 
